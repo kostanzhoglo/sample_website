@@ -17,3 +17,7 @@ I don't know why this won't populate as html on the live web.  Maybe it's not su
 ##### Heading 5?  Is this for real?  5 hash marks seems excessive
 
 [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius), pretty smart for almost 2000 years ago!
+
+###### This is a heading 6.  I actually wonder what it looks like.
+
+[World War II](https://en.wikipedia.org/wiki/Military_history_of_the_United_States_during_World_War_II) was a long time ago.  The United States worked together as a nation to defeat the Nazi regime.  Some people in the United States today think America would be better off supporting those horrible ideals.  What happened?
